@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Wojciech 
 
-<!--
-**wojciechsierota/wojciechsierota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Python Backend Developer | AI Engineering Student @ WWSI
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm transitioning into the IT sector from a dynamic background in sales and brand management (OEX Cursor). I'm bringing strong soft skills, a problem-solving mindset, and a relentless work ethic into the world of software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+-  I’m currently focused on mastering **Python, Object-Oriented Programming (OOP), and Backend Architecture**.
+-  Studying Artificial Intelligence Engineering at Warsaw School of Computer Science (WWSI).
+-  Currently building a **Farm Management System** to solve real-world agricultural problems.
+-  From negotiating with clients to debugging code: I thrive in fast-paced environments where ownership and independent problem-solving are key.
+
+---
+
+### Tech Stack & Skills
+- **Languages:** Python
+- **Core Concepts:** OOP, Clean Code, Data Structures
+- **Tools:** Git, GitHub
+- **Soft Skills:** Communication, Self-Management, Goal Execution
+
+---
+
+### Currently Learning & Doing
+- Completing an intensive Python OOP Bootcamp (solving advanced architectural challenges).
+- Learning how to build robust APIs and work with databases.
+- Writing code every single day. 
+
+---
+
+### Let's Connect!
+- **LinkedIn:** [Wojciech Sierota](https://www.linkedin.com/in/wojciech-sierota-46122536b/)

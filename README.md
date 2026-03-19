@@ -1,6 +1,6 @@
 # Hi there, I'm Wojciech 
 
-### Aspiring Python Backend Developer | AI Engineering Student @ WWSI
+### Aspiring Python Backend Developer | AI Engineering Student WWSI
 
 Welcome to my GitHub! I'm transitioning into the IT sector from a dynamic background in sales and brand management (OEX Cursor). I'm bringing strong soft skills, a problem-solving mindset, and a relentless work ethic into the world of software development.
 

@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm transitioning into the IT sector from a dynamic backgr
 ---
 
 ### About Me
--  I’m currently focused on mastering **Python, Object-Oriented Programming (OOP), and Backend Architecture**.
+-  I’m currently focused on mastering **Python and Backend Architecture**.
 -  Studying Artificial Intelligence Engineering at Warsaw School of Computer Science (WWSI).
 -  Currently building a **Farm Management System** to solve real-world agricultural problems.
 -  From negotiating with clients to debugging code: I thrive in fast-paced environments where ownership and independent problem-solving are key.
@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm transitioning into the IT sector from a dynamic backgr
 
 ### Tech Stack & Skills
 - **Languages:** Python
-- **Core Concepts:** OOP, Clean Code, Data Structures
+- **Core Concepts:** Clean Code, Data Structures
 - **Tools:** Git, GitHub
 - **Soft Skills:** Communication, Self-Management, Goal Execution
 

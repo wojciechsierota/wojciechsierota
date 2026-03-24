@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm transitioning into the IT sector from a dynamic backgr
 ---
 
 ### Tech Stack & Skills
-- **Languages:** Python
+- **Languages:** Python, SQL
 - **Core Concepts:** Clean Code, Data Structures
 - **Tools:** Git, GitHub
 - **Soft Skills:** Communication, Self-Management, Goal Execution

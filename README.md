@@ -25,7 +25,6 @@ Welcome to my GitHub! I'm transitioning into the IT sector from a dynamic backgr
 ### Currently Learning & Doing
 - Completing an intensive Python OOP Bootcamp (solving advanced architectural challenges).
 - Learning how to build robust APIs and work with databases.
-- Writing code every single day. 
 
 ---
 

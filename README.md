@@ -1,32 +1,32 @@
-# Hi there, I'm Wojciech 
+# Hi there, I'm Wojciech 👋
 
-### Aspiring Python Backend Developer | AI Engineering Student WWSI
+Aspiring Python Backend Developer | AI Engineering Student @ WWSI Warsaw
 
-Welcome to my GitHub! I'm transitioning into the IT sector from a dynamic background in sales and brand management (OEX Cursor). I'm bringing strong soft skills, a problem-solving mindset, and a relentless work ethic into the world of software development.
+## About Me
+-  Studying Artificial Intelligence Engineering at Warsaw School of Computer Science (WWSI)
+-  Built an AI-powered Farm Management System with Google Gemini API integration
+-  Transitioning into IT from sales & brand management — bringing strong soft skills and problem-solving mindset
+-  Looking for a Python Backend internship
 
----
-
-### About Me
--  I’m currently focused on mastering **Python and Backend Architecture**.
--  Studying Artificial Intelligence Engineering at Warsaw School of Computer Science (WWSI).
--  Currently building a **Farm Management System** to solve real-world agricultural problems.
--  From negotiating with clients to debugging code: I thrive in fast-paced environments where ownership and independent problem-solving are key.
-
----
-
-### Tech Stack & Skills
+##  Tech Stack
 - **Languages:** Python, SQL
-- **Core Concepts:** Clean Code, Data Structures
-- **Tools:** Git, GitHub
-- **Soft Skills:** Communication, Self-Management, Goal Execution
+- **Databases:** SQLite
+- **AI/APIs:** Google Gemini API, REST APIs
+- **Testing:** pytest, pytest-mock
+- **Tools:** Git, GitHub, VS Code
 
----
+##  Featured Project
+###  [Agro Manager MVP](https://github.com/wojciechsierota/Agro-Manager-MVP)
+Terminal-based farm management system with:
+- SQLite database with full CRUD operations
+- AI Agronomist Advisor powered by Google Gemini
+- Unit tests with mocking
+- CSV export for Excel
 
-### Currently Learning & Doing
-- Completing an intensive Python OOP Bootcamp (solving advanced architectural challenges).
-- Learning how to build robust APIs and work with databases.
+##  Currently Learning
+- FastAPI & REST API development
+- Docker
+- OOP best practices
 
----
-
-### Let's Connect!
-- **LinkedIn:** [Wojciech Sierota](https://www.linkedin.com/in/wojciech-sierota-46122536b/)
+##  Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wojciech_Sierota-blue)](https://www.linkedin.com/in/wojciech-sierota-46122536b/)
